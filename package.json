@@ -1,0 +1,11 @@
+{
+  "name": "ryyn-proxy-monitor",
+  "version": "1.0.0",
+  "main": "bot.js",
+  "dependencies": {
+    "@whiskeysockets/baileys": "github:kiuur/baileys",
+    "pino": "^9.0.0",
+    "@hapi/boom": "^10.0.0",
+    "cli-color": "^2.0.3"
+  }
+}
